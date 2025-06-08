@@ -110,9 +110,6 @@
     <loc>https://vps-959937c4.vps.ovh.ca/posts/a_new_snapshot/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vps-959937c4.vps.ovh.ca/bookmarks/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vps-959937c4.vps.ovh.ca/guestbook/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -189,6 +186,8 @@
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vps-959937c4.vps.ovh.ca/categories/</loc>
+  </url><url>
+    <loc>https://vps-959937c4.vps.ovh.ca/search/</loc>
   </url><url>
     <loc>https://vps-959937c4.vps.ovh.ca/tags/</loc>
   </url>
